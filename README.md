@@ -1,2 +1,1 @@
-# welcome-script
-my first repo
+Read me file t check my first file commit
